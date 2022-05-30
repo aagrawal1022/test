@@ -5,4 +5,5 @@ else:
 	thr=iput("r u thristy")
 	if thr=="yes":
 		print("drink water")
+		print("drink soda")
 	print("sit silently")					
